@@ -1,4 +1,4 @@
----
+---Danger squid
 title: Monetizing Your Games
 ---
 
